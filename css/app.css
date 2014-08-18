@@ -1,0 +1,11 @@
+html {
+    background-color: #fff;
+    color: #000;
+    border-radius: '50px'
+}
+
+.double-sided {
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+    -webkit-border-radius: 50px;
+}
